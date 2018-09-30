@@ -1,5 +1,5 @@
 # Bike-Sharing-Demand
-Predicting the total number of bikes rented during each hour with help of information available prior to the rental period.
+ Let's predicting the total number of bikes rented during each hour with help of information available prior to the rental period.
 
 
 ## The Model is build using Linear Regression Model, and here I discussed the steps I have followed while building model which gives better RMSE value ( this is the value which is used to evaluate how good your model is.)
